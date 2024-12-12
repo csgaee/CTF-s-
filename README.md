@@ -1,10 +1,8 @@
 # CTF-s-
-I'm not really interested in doing CTFs but from time to time i give it a try :)
+I'm not really interested in doing CTFs but this repo will act as holder for scripts creat
 
-
-[ ] to do
 # the 1st CTF i tried to solve is flare-on 1 --> 2014
 
--> https://github.com/csgaee/XXXX/tree/master/practice/0_flare_me/2014
+# after long time far from playing CTFs i decided to solve flare-on 11 --> 2024  
 
-# now i solved flare-on 11 --> 2024  (_)till 9th :)
+manged to solve till 9th :)
