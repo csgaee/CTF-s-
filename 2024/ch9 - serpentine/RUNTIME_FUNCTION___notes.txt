@@ -1,0 +1,728 @@
+6910000: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x0 - FunctionEnd: 0x1 - UnwindInfo: 0x48
+6910107: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x107 - FunctionEnd: 0x108 - UnwindInfo: 0x146
+691020A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x20a - FunctionEnd: 0x20b - UnwindInfo: 0x250
+6910315: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x315 - FunctionEnd: 0x316 - UnwindInfo: 0x35e
+6910407: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x407 - FunctionEnd: 0x408 - UnwindInfo: 0x456
+6910510: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x510 - FunctionEnd: 0x511 - UnwindInfo: 0x550
+69105FC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5fc - FunctionEnd: 0x5fd - UnwindInfo: 0x64a
+6910737: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x737 - FunctionEnd: 0x738 - UnwindInfo: 0x782
+691083F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x83f - FunctionEnd: 0x840 - UnwindInfo: 0x88c
+691094D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x94d - FunctionEnd: 0x94e - UnwindInfo: 0x996
+6910A4E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa4e - FunctionEnd: 0xa4f - UnwindInfo: 0xaa0
+6910B58: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb58 - FunctionEnd: 0xb59 - UnwindInfo: 0xbaa
+6910C62: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc62 - FunctionEnd: 0xc63 - UnwindInfo: 0xca8
+6910D99: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd99 - FunctionEnd: 0xd9a - UnwindInfo: 0xde8
+6910E9C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe9c - FunctionEnd: 0xe9d - UnwindInfo: 0xee0
+6910FB0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xfb0 - FunctionEnd: 0xfb1 - UnwindInfo: 0xff8
+69110AA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10aa - FunctionEnd: 0x10ab - UnwindInfo: 0x10ea
+6911197: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1197 - FunctionEnd: 0x1198 - UnwindInfo: 0x11e2
+69112D3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12d3 - FunctionEnd: 0x12d4 - UnwindInfo: 0x1320
+69113D4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13d4 - FunctionEnd: 0x13d5 - UnwindInfo: 0x1414
+69114DC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14dc - FunctionEnd: 0x14dd - UnwindInfo: 0x152a
+69115DE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15de - FunctionEnd: 0x15df - UnwindInfo: 0x1624
+69116E5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16e5 - FunctionEnd: 0x16e6 - UnwindInfo: 0x1724
+69117DF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x17df - FunctionEnd: 0x17e0 - UnwindInfo: 0x1830
+6911938: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1938 - FunctionEnd: 0x1939 - UnwindInfo: 0x1980
+6911A3D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1a3d - FunctionEnd: 0x1a3e - UnwindInfo: 0x1a8a
+6911B46: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1b46 - FunctionEnd: 0x1b47 - UnwindInfo: 0x1b88
+6911C3A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1c3a - FunctionEnd: 0x1c3b - UnwindInfo: 0x1c86
+6911D40: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1d40 - FunctionEnd: 0x1d41 - UnwindInfo: 0x1d90
+6911E55: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1e55 - FunctionEnd: 0x1e56 - UnwindInfo: 0x1ea2
+6911F99: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1f99 - FunctionEnd: 0x1f9a - UnwindInfo: 0x1fdc
+6912088: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2088 - FunctionEnd: 0x2089 - UnwindInfo: 0x20d2
+691219C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x219c - FunctionEnd: 0x219d - UnwindInfo: 0x21e8
+6912299: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2299 - FunctionEnd: 0x229a - UnwindInfo: 0x22e2
+691239F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x239f - FunctionEnd: 0x23a0 - UnwindInfo: 0x23e2
+69124A4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x24a4 - FunctionEnd: 0x24a5 - UnwindInfo: 0x24ec
+69125F1: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x25f1 - FunctionEnd: 0x25f2 - UnwindInfo: 0x2636
+69126F2: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x26f2 - FunctionEnd: 0x26f3 - UnwindInfo: 0x2742
+6912802: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2802 - FunctionEnd: 0x2803 - UnwindInfo: 0x284a
+69128F6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x28f6 - FunctionEnd: 0x28f7 - UnwindInfo: 0x2936
+69129E9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x29e9 - FunctionEnd: 0x29ea - UnwindInfo: 0x2a38
+6912AFA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2afa - FunctionEnd: 0x2afb - UnwindInfo: 0x2b3e
+6912BE5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2be5 - FunctionEnd: 0x2be6 - UnwindInfo: 0x2c24
+6912CD3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2cd3 - FunctionEnd: 0x2cd4 - UnwindInfo: 0x2d18
+6912DDE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2dde - FunctionEnd: 0x2ddf - UnwindInfo: 0x2e1c
+6912ECA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x2eca - FunctionEnd: 0x2ecb - UnwindInfo: 0x2f18
+6913003: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3003 - FunctionEnd: 0x3004 - UnwindInfo: 0x3054
+691311C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x311c - FunctionEnd: 0x311d - UnwindInfo: 0x3164
+691320E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x320e - FunctionEnd: 0x320f - UnwindInfo: 0x324e
+69132ED: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x32ed - FunctionEnd: 0x32ee - UnwindInfo: 0x3334
+69133E5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x33e5 - FunctionEnd: 0x33e6 - UnwindInfo: 0x3434
+691353C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x353c - FunctionEnd: 0x353d - UnwindInfo: 0x3582
+6913643: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3643 - FunctionEnd: 0x3644 - UnwindInfo: 0x368c
+691375D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x375d - FunctionEnd: 0x375e - UnwindInfo: 0x37ae
+6913864: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3864 - FunctionEnd: 0x3865 - UnwindInfo: 0x38a4
+6913962: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3962 - FunctionEnd: 0x3963 - UnwindInfo: 0x39aa
+6913A66: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3a66 - FunctionEnd: 0x3a67 - UnwindInfo: 0x3aa8
+6913BB9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3bb9 - FunctionEnd: 0x3bba - UnwindInfo: 0x3c0a
+6913CCC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3ccc - FunctionEnd: 0x3ccd - UnwindInfo: 0x3d12
+6913DE3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3de3 - FunctionEnd: 0x3de4 - UnwindInfo: 0x3e22
+6913ECB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3ecb - FunctionEnd: 0x3ecc - UnwindInfo: 0x3f1c
+6913FDF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x3fdf - FunctionEnd: 0x3fe0 - UnwindInfo: 0x4028
+69140E5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x40e5 - FunctionEnd: 0x40e6 - UnwindInfo: 0x4136
+6914223: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4223 - FunctionEnd: 0x4224 - UnwindInfo: 0x4262
+6914315: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4315 - FunctionEnd: 0x4316 - UnwindInfo: 0x4360
+6914431: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4431 - FunctionEnd: 0x4432 - UnwindInfo: 0x447c
+691452E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x452e - FunctionEnd: 0x452f - UnwindInfo: 0x4578
+6914633: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4633 - FunctionEnd: 0x4634 - UnwindInfo: 0x467e
+691472A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x472a - FunctionEnd: 0x472b - UnwindInfo: 0x476e
+691485F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x485f - FunctionEnd: 0x4860 - UnwindInfo: 0x48aa
+691495C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x495c - FunctionEnd: 0x495d - UnwindInfo: 0x499c
+6914A6A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4a6a - FunctionEnd: 0x4a6b - UnwindInfo: 0x4aae
+6914B65: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4b65 - FunctionEnd: 0x4b66 - UnwindInfo: 0x4ba8
+6914C6F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4c6f - FunctionEnd: 0x4c70 - UnwindInfo: 0x4cb6
+6914DC3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4dc3 - FunctionEnd: 0x4dc4 - UnwindInfo: 0x4e06
+6914EBF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4ebf - FunctionEnd: 0x4ec0 - UnwindInfo: 0x4f0c
+6914FE5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x4fe5 - FunctionEnd: 0x4fe6 - UnwindInfo: 0x502c
+6915103: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5103 - FunctionEnd: 0x5104 - UnwindInfo: 0x5154
+69151FE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x51fe - FunctionEnd: 0x51ff - UnwindInfo: 0x523c
+6915306: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5306 - FunctionEnd: 0x5307 - UnwindInfo: 0x5354
+691540B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x540b - FunctionEnd: 0x540c - UnwindInfo: 0x545a
+6915507: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5507 - FunctionEnd: 0x5508 - UnwindInfo: 0x5558
+6915603: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5603 - FunctionEnd: 0x5604 - UnwindInfo: 0x5654
+6915749: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5749 - FunctionEnd: 0x574a - UnwindInfo: 0x5798
+691585B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x585b - FunctionEnd: 0x585c - UnwindInfo: 0x589e
+6915950: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5950 - FunctionEnd: 0x5951 - UnwindInfo: 0x5998
+6915A55: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5a55 - FunctionEnd: 0x5a56 - UnwindInfo: 0x5a9e
+6915B54: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5b54 - FunctionEnd: 0x5b55 - UnwindInfo: 0x5b9c
+6915C59: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5c59 - FunctionEnd: 0x5c5a - UnwindInfo: 0x5c9c
+6915D7F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5d7f - FunctionEnd: 0x5d80 - UnwindInfo: 0x5dd0
+6915E7D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5e7d - FunctionEnd: 0x5e7e - UnwindInfo: 0x5ec4
+6915F91: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x5f91 - FunctionEnd: 0x5f92 - UnwindInfo: 0x5fe2
+6916094: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6094 - FunctionEnd: 0x6095 - UnwindInfo: 0x60e6
+69161A6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x61a6 - FunctionEnd: 0x61a7 - UnwindInfo: 0x61f4
+69162A4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x62a4 - FunctionEnd: 0x62a5 - UnwindInfo: 0x62e6
+69163EE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x63ee - FunctionEnd: 0x63ef - UnwindInfo: 0x6434
+69164E0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x64e0 - FunctionEnd: 0x64e1 - UnwindInfo: 0x6524
+69165F7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x65f7 - FunctionEnd: 0x65f8 - UnwindInfo: 0x6644
+6916702: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6702 - FunctionEnd: 0x6703 - UnwindInfo: 0x6748
+6916807: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6807 - FunctionEnd: 0x6808 - UnwindInfo: 0x6846
+6916905: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6905 - FunctionEnd: 0x6906 - UnwindInfo: 0x6952
+6916A3D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6a3d - FunctionEnd: 0x6a3e - UnwindInfo: 0x6a8c
+6916B3A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6b3a - FunctionEnd: 0x6b3b - UnwindInfo: 0x6b7e
+6916C47: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6c47 - FunctionEnd: 0x6c48 - UnwindInfo: 0x6c98
+6916D51: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6d51 - FunctionEnd: 0x6d52 - UnwindInfo: 0x6d94
+6916E48: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6e48 - FunctionEnd: 0x6e49 - UnwindInfo: 0x6e94
+6916F4C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x6f4c - FunctionEnd: 0x6f4d - UnwindInfo: 0x6f90
+6917086: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7086 - FunctionEnd: 0x7087 - UnwindInfo: 0x70c6
+691717C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x717c - FunctionEnd: 0x717d - UnwindInfo: 0x71ba
+6917291: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7291 - FunctionEnd: 0x7292 - UnwindInfo: 0x72d6
+6917393: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7393 - FunctionEnd: 0x7394 - UnwindInfo: 0x73dc
+69174A0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x74a0 - FunctionEnd: 0x74a1 - UnwindInfo: 0x74e8
+69175E4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x75e4 - FunctionEnd: 0x75e5 - UnwindInfo: 0x762c
+69176E4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x76e4 - FunctionEnd: 0x76e5 - UnwindInfo: 0x7726
+69177EA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x77ea - FunctionEnd: 0x77eb - UnwindInfo: 0x7832
+69178FA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x78fa - FunctionEnd: 0x78fb - UnwindInfo: 0x794c
+6917A06: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7a06 - FunctionEnd: 0x7a07 - UnwindInfo: 0x7a4e
+6917B0F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7b0f - FunctionEnd: 0x7b10 - UnwindInfo: 0x7b5e
+6917C04: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7c04 - FunctionEnd: 0x7c05 - UnwindInfo: 0x7c46
+6917CF5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7cf5 - FunctionEnd: 0x7cf6 - UnwindInfo: 0x7d3c
+6917DF6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7df6 - FunctionEnd: 0x7df7 - UnwindInfo: 0x7e3e
+6917F2C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x7f2c - FunctionEnd: 0x7f2d - UnwindInfo: 0x7f78
+691803E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x803e - FunctionEnd: 0x803f - UnwindInfo: 0x808e
+6918152: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8152 - FunctionEnd: 0x8153 - UnwindInfo: 0x81a4
+6918258: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8258 - FunctionEnd: 0x8259 - UnwindInfo: 0x82a2
+691835F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x835f - FunctionEnd: 0x8360 - UnwindInfo: 0x83ae
+69184BF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x84bf - FunctionEnd: 0x84c0 - UnwindInfo: 0x850a
+69185BF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x85bf - FunctionEnd: 0x85c0 - UnwindInfo: 0x8600
+69186CC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x86cc - FunctionEnd: 0x86cd - UnwindInfo: 0x870c
+69187BD: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x87bd - FunctionEnd: 0x87be - UnwindInfo: 0x87fc
+69188BE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x88be - FunctionEnd: 0x88bf - UnwindInfo: 0x890e
+6918A15: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8a15 - FunctionEnd: 0x8a16 - UnwindInfo: 0x8a56
+6918B0F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8b0f - FunctionEnd: 0x8b10 - UnwindInfo: 0x8b52
+6918C20: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8c20 - FunctionEnd: 0x8c21 - UnwindInfo: 0x8c6e
+6918D22: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8d22 - FunctionEnd: 0x8d23 - UnwindInfo: 0x8d64
+6918E30: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8e30 - FunctionEnd: 0x8e31 - UnwindInfo: 0x8e70
+6918F58: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x8f58 - FunctionEnd: 0x8f59 - UnwindInfo: 0x8f9a
+6919051: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9051 - FunctionEnd: 0x9052 - UnwindInfo: 0x9094
+6919170: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9170 - FunctionEnd: 0x9171 - UnwindInfo: 0x91bc
+6919258: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9258 - FunctionEnd: 0x9259 - UnwindInfo: 0x9298
+691934A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x934a - FunctionEnd: 0x934b - UnwindInfo: 0x939a
+691948B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x948b - FunctionEnd: 0x948c - UnwindInfo: 0x94ca
+691957E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x957e - FunctionEnd: 0x957f - UnwindInfo: 0x95ce
+691969C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x969c - FunctionEnd: 0x969d - UnwindInfo: 0x96e4
+691979C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x979c - FunctionEnd: 0x979d - UnwindInfo: 0x97e6
+69198B6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x98b6 - FunctionEnd: 0x98b7 - UnwindInfo: 0x98f4
+69199AD: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x99ad - FunctionEnd: 0x99ae - UnwindInfo: 0x99ec
+6919AD8: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9ad8 - FunctionEnd: 0x9ad9 - UnwindInfo: 0x9b1a
+6919BCA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9bca - FunctionEnd: 0x9bcb - UnwindInfo: 0x9c0c
+6919CCB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9ccb - FunctionEnd: 0x9ccc - UnwindInfo: 0x9d0a
+6919DB1: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9db1 - FunctionEnd: 0x9db2 - UnwindInfo: 0x9dfe
+6919EC5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9ec5 - FunctionEnd: 0x9ec6 - UnwindInfo: 0x9f0c
+6919FDB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x9fdb - FunctionEnd: 0x9fdc - UnwindInfo: 0xa01e
+691A0BD: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa0bd - FunctionEnd: 0xa0be - UnwindInfo: 0xa10c
+691A1B7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa1b7 - FunctionEnd: 0xa1b8 - UnwindInfo: 0xa1fe
+691A2B7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa2b7 - FunctionEnd: 0xa2b8 - UnwindInfo: 0xa306
+691A3C1: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa3c1 - FunctionEnd: 0xa3c2 - UnwindInfo: 0xa40e
+691A4D3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa4d3 - FunctionEnd: 0xa4d4 - UnwindInfo: 0xa524
+691A5D0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa5d0 - FunctionEnd: 0xa5d1 - UnwindInfo: 0xa614
+691A6B2: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa6b2 - FunctionEnd: 0xa6b3 - UnwindInfo: 0xa6f2
+691A7A6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa7a6 - FunctionEnd: 0xa7a7 - UnwindInfo: 0xa7e6
+691A89C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa89c - FunctionEnd: 0xa89d - UnwindInfo: 0xa8e2
+691A9B8: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xa9b8 - FunctionEnd: 0xa9b9 - UnwindInfo: 0xaa00
+691AAB9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xaab9 - FunctionEnd: 0xaaba - UnwindInfo: 0xab08
+691ABC7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xabc7 - FunctionEnd: 0xabc8 - UnwindInfo: 0xac0a
+691ACB2: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xacb2 - FunctionEnd: 0xacb3 - UnwindInfo: 0xacfe
+691ADB6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xadb6 - FunctionEnd: 0xadb7 - UnwindInfo: 0xadfe
+691AED1: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xaed1 - FunctionEnd: 0xaed2 - UnwindInfo: 0xaf14
+691AFCD: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xafcd - FunctionEnd: 0xafce - UnwindInfo: 0xb01a
+691B0E3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb0e3 - FunctionEnd: 0xb0e4 - UnwindInfo: 0xb124
+691B1D5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb1d5 - FunctionEnd: 0xb1d6 - UnwindInfo: 0xb226
+691B2DE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb2de - FunctionEnd: 0xb2df - UnwindInfo: 0xb32c
+691B3EA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb3ea - FunctionEnd: 0xb3eb - UnwindInfo: 0xb42e
+691B4ED: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb4ed - FunctionEnd: 0xb4ee - UnwindInfo: 0xb52c
+691B5E9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb5e9 - FunctionEnd: 0xb5ea - UnwindInfo: 0xb636
+691B70C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb70c - FunctionEnd: 0xb70d - UnwindInfo: 0xb750
+691B7F7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb7f7 - FunctionEnd: 0xb7f8 - UnwindInfo: 0xb83e
+691B8F4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xb8f4 - FunctionEnd: 0xb8f5 - UnwindInfo: 0xb93c
+691BA04: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xba04 - FunctionEnd: 0xba05 - UnwindInfo: 0xba46
+691BB01: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xbb01 - FunctionEnd: 0xbb02 - UnwindInfo: 0xbb44
+691BC02: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xbc02 - FunctionEnd: 0xbc03 - UnwindInfo: 0xbc4c
+691BCF7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xbcf7 - FunctionEnd: 0xbcf8 - UnwindInfo: 0xbd3c
+691BDFE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xbdfe - FunctionEnd: 0xbdff - UnwindInfo: 0xbe4e
+691BF13: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xbf13 - FunctionEnd: 0xbf14 - UnwindInfo: 0xbf62
+691C010: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc010 - FunctionEnd: 0xc011 - UnwindInfo: 0xc052
+691C11B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc11b - FunctionEnd: 0xc11c - UnwindInfo: 0xc15e
+691C213: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc213 - FunctionEnd: 0xc214 - UnwindInfo: 0xc264
+691C30F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc30f - FunctionEnd: 0xc310 - UnwindInfo: 0xc35e
+691C410: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc410 - FunctionEnd: 0xc411 - UnwindInfo: 0xc460
+691C517: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc517 - FunctionEnd: 0xc518 - UnwindInfo: 0xc568
+691C616: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc616 - FunctionEnd: 0xc617 - UnwindInfo: 0xc654
+691C71C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc71c - FunctionEnd: 0xc71d - UnwindInfo: 0xc768
+691C81F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc81f - FunctionEnd: 0xc820 - UnwindInfo: 0xc862
+691C96D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xc96d - FunctionEnd: 0xc96e - UnwindInfo: 0xc9b8
+691CA74: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xca74 - FunctionEnd: 0xca75 - UnwindInfo: 0xcab8
+691CB71: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xcb71 - FunctionEnd: 0xcb72 - UnwindInfo: 0xcbb0
+691CC58: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xcc58 - FunctionEnd: 0xcc59 - UnwindInfo: 0xcca2
+691CD5C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xcd5c - FunctionEnd: 0xcd5d - UnwindInfo: 0xcd9e
+691CE56: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xce56 - FunctionEnd: 0xce57 - UnwindInfo: 0xce94
+691CF75: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xcf75 - FunctionEnd: 0xcf76 - UnwindInfo: 0xcfbe
+691D07B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd07b - FunctionEnd: 0xd07c - UnwindInfo: 0xd0c4
+691D19A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd19a - FunctionEnd: 0xd19b - UnwindInfo: 0xd1e6
+691D295: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd295 - FunctionEnd: 0xd296 - UnwindInfo: 0xd2da
+691D393: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd393 - FunctionEnd: 0xd394 - UnwindInfo: 0xd3da
+691D490: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd490 - FunctionEnd: 0xd491 - UnwindInfo: 0xd4d8
+691D5E5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd5e5 - FunctionEnd: 0xd5e6 - UnwindInfo: 0xd626
+691D6E9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd6e9 - FunctionEnd: 0xd6ea - UnwindInfo: 0xd736
+691D809: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd809 - FunctionEnd: 0xd80a - UnwindInfo: 0xd858
+691D8FA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd8fa - FunctionEnd: 0xd8fb - UnwindInfo: 0xd942
+691D9F0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xd9f0 - FunctionEnd: 0xd9f1 - UnwindInfo: 0xda40
+691DB40: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xdb40 - FunctionEnd: 0xdb41 - UnwindInfo: 0xdb84
+691DC3C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xdc3c - FunctionEnd: 0xdc3d - UnwindInfo: 0xdc82
+691DD45: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xdd45 - FunctionEnd: 0xdd46 - UnwindInfo: 0xdd90
+691DE35: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xde35 - FunctionEnd: 0xde36 - UnwindInfo: 0xde82
+691DF3D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xdf3d - FunctionEnd: 0xdf3e - UnwindInfo: 0xdf88
+691E082: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe082 - FunctionEnd: 0xe083 - UnwindInfo: 0xe0d2
+691E188: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe188 - FunctionEnd: 0xe189 - UnwindInfo: 0xe1ce
+691E2A7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe2a7 - FunctionEnd: 0xe2a8 - UnwindInfo: 0xe2e8
+691E391: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe391 - FunctionEnd: 0xe392 - UnwindInfo: 0xe3e2
+691E49C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe49c - FunctionEnd: 0xe49d - UnwindInfo: 0xe4ee
+691E5FB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe5fb - FunctionEnd: 0xe5fc - UnwindInfo: 0xe646
+691E706: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe706 - FunctionEnd: 0xe707 - UnwindInfo: 0xe746
+691E80C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe80c - FunctionEnd: 0xe80d - UnwindInfo: 0xe852
+691E91E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xe91e - FunctionEnd: 0xe91f - UnwindInfo: 0xe960
+691EA28: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xea28 - FunctionEnd: 0xea29 - UnwindInfo: 0xea70
+691EB30: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xeb30 - FunctionEnd: 0xeb31 - UnwindInfo: 0xeb80
+691EC26: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xec26 - FunctionEnd: 0xec27 - UnwindInfo: 0xec6c
+691ED0E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xed0e - FunctionEnd: 0xed0f - UnwindInfo: 0xed5c
+691EE19: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xee19 - FunctionEnd: 0xee1a - UnwindInfo: 0xee58
+691EF0A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xef0a - FunctionEnd: 0xef0b - UnwindInfo: 0xef56
+691F014: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf014 - FunctionEnd: 0xf015 - UnwindInfo: 0xf058
+691F117: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf117 - FunctionEnd: 0xf118 - UnwindInfo: 0xf15c
+691F209: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf209 - FunctionEnd: 0xf20a - UnwindInfo: 0xf250
+691F306: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf306 - FunctionEnd: 0xf307 - UnwindInfo: 0xf358
+691F40E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf40e - FunctionEnd: 0xf40f - UnwindInfo: 0xf454
+691F517: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf517 - FunctionEnd: 0xf518 - UnwindInfo: 0xf55c
+691F610: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf610 - FunctionEnd: 0xf611 - UnwindInfo: 0xf662
+691F735: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf735 - FunctionEnd: 0xf736 - UnwindInfo: 0xf776
+691F824: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf824 - FunctionEnd: 0xf825 - UnwindInfo: 0xf876
+691F92E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xf92e - FunctionEnd: 0xf92f - UnwindInfo: 0xf97a
+691FA2F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xfa2f - FunctionEnd: 0xfa30 - UnwindInfo: 0xfa7e
+691FB54: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xfb54 - FunctionEnd: 0xfb55 - UnwindInfo: 0xfb96
+691FC59: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xfc59 - FunctionEnd: 0xfc5a - UnwindInfo: 0xfca6
+691FD6D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xfd6d - FunctionEnd: 0xfd6e - UnwindInfo: 0xfdb8
+691FE68: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xfe68 - FunctionEnd: 0xfe69 - UnwindInfo: 0xfeb8
+691FF76: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0xff76 - FunctionEnd: 0xff77 - UnwindInfo: 0xffb8
+692006C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1006c - FunctionEnd: 0x1006d - UnwindInfo: 0x100ac
+692016D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1016d - FunctionEnd: 0x1016e - UnwindInfo: 0x101ac
+6920263: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10263 - FunctionEnd: 0x10264 - UnwindInfo: 0x102a8
+6920376: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10376 - FunctionEnd: 0x10377 - UnwindInfo: 0x103c0
+692046D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1046d - FunctionEnd: 0x1046e - UnwindInfo: 0x104ac
+6920561: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10561 - FunctionEnd: 0x10562 - UnwindInfo: 0x105ae
+6920667: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10667 - FunctionEnd: 0x10668 - UnwindInfo: 0x106a6
+6920760: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10760 - FunctionEnd: 0x10761 - UnwindInfo: 0x107b2
+6920888: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10888 - FunctionEnd: 0x10889 - UnwindInfo: 0x108d8
+6920999: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10999 - FunctionEnd: 0x1099a - UnwindInfo: 0x109e8
+6920AA9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10aa9 - FunctionEnd: 0x10aaa - UnwindInfo: 0x10af8
+6920BA5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10ba5 - FunctionEnd: 0x10ba6 - UnwindInfo: 0x10bec
+6920CAF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10caf - FunctionEnd: 0x10cb0 - UnwindInfo: 0x10cf8
+6920DB7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10db7 - FunctionEnd: 0x10db8 - UnwindInfo: 0x10e00
+6920ECE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10ece - FunctionEnd: 0x10ecf - UnwindInfo: 0x10f14
+6920FB9: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x10fb9 - FunctionEnd: 0x10fba - UnwindInfo: 0x11008
+69210BC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x110bc - FunctionEnd: 0x110bd - UnwindInfo: 0x11102
+69211DB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x111db - FunctionEnd: 0x111dc - UnwindInfo: 0x11224
+69212E8: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x112e8 - FunctionEnd: 0x112e9 - UnwindInfo: 0x1132c
+69213FE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x113fe - FunctionEnd: 0x113ff - UnwindInfo: 0x1144e
+6921504: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11504 - FunctionEnd: 0x11505 - UnwindInfo: 0x11550
+6921600: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11600 - FunctionEnd: 0x11601 - UnwindInfo: 0x11652
+6921716: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11716 - FunctionEnd: 0x11717 - UnwindInfo: 0x11764
+6921815: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11815 - FunctionEnd: 0x11816 - UnwindInfo: 0x1185e
+6921901: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11901 - FunctionEnd: 0x11902 - UnwindInfo: 0x1194a
+6921A0A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11a0a - FunctionEnd: 0x11a0b - UnwindInfo: 0x11a4a
+6921AF8: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11af8 - FunctionEnd: 0x11af9 - UnwindInfo: 0x11b4a
+6921C0E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11c0e - FunctionEnd: 0x11c0f - UnwindInfo: 0x11c5a
+6921D11: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11d11 - FunctionEnd: 0x11d12 - UnwindInfo: 0x11d52
+6921E07: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11e07 - FunctionEnd: 0x11e08 - UnwindInfo: 0x11e56
+6921EF8: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11ef8 - FunctionEnd: 0x11ef9 - UnwindInfo: 0x11f3a
+6921FE4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x11fe4 - FunctionEnd: 0x11fe5 - UnwindInfo: 0x12028
+6922102: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12102 - FunctionEnd: 0x12103 - UnwindInfo: 0x12148
+6922203: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12203 - FunctionEnd: 0x12204 - UnwindInfo: 0x12244
+692230C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1230c - FunctionEnd: 0x1230d - UnwindInfo: 0x1234c
+69223F6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x123f6 - FunctionEnd: 0x123f7 - UnwindInfo: 0x12442
+69224FC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x124fc - FunctionEnd: 0x124fd - UnwindInfo: 0x12544
+69225FB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x125fb - FunctionEnd: 0x125fc - UnwindInfo: 0x12644
+69226FF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x126ff - FunctionEnd: 0x12700 - UnwindInfo: 0x12744
+69227EC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x127ec - FunctionEnd: 0x127ed - UnwindInfo: 0x1283e
+692290B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1290b - FunctionEnd: 0x1290c - UnwindInfo: 0x12954
+6922A05: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12a05 - FunctionEnd: 0x12a06 - UnwindInfo: 0x12a4c
+6922AF4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12af4 - FunctionEnd: 0x12af5 - UnwindInfo: 0x12b3c
+6922BF7: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12bf7 - FunctionEnd: 0x12bf8 - UnwindInfo: 0x12c36
+6922CEA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12cea - FunctionEnd: 0x12ceb - UnwindInfo: 0x12d36
+6922E08: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12e08 - FunctionEnd: 0x12e09 - UnwindInfo: 0x12e58
+6922F05: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12f05 - FunctionEnd: 0x12f06 - UnwindInfo: 0x12f50
+6922FFF: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x12fff - FunctionEnd: 0x13000 - UnwindInfo: 0x1303e
+6923126: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13126 - FunctionEnd: 0x13127 - UnwindInfo: 0x13172
+692321F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1321f - FunctionEnd: 0x13220 - UnwindInfo: 0x1326a
+6923339: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13339 - FunctionEnd: 0x1333a - UnwindInfo: 0x13386
+6923428: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13428 - FunctionEnd: 0x13429 - UnwindInfo: 0x13476
+6923526: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13526 - FunctionEnd: 0x13527 - UnwindInfo: 0x13566
+6923621: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13621 - FunctionEnd: 0x13622 - UnwindInfo: 0x13664
+6923730: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13730 - FunctionEnd: 0x13731 - UnwindInfo: 0x1377e
+6923832: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13832 - FunctionEnd: 0x13833 - UnwindInfo: 0x1387e
+692394C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1394c - FunctionEnd: 0x1394d - UnwindInfo: 0x1398a
+6923A38: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13a38 - FunctionEnd: 0x13a39 - UnwindInfo: 0x13a7c
+6923B22: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13b22 - FunctionEnd: 0x13b23 - UnwindInfo: 0x13b70
+6923C68: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13c68 - FunctionEnd: 0x13c69 - UnwindInfo: 0x13cb4
+6923D72: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13d72 - FunctionEnd: 0x13d73 - UnwindInfo: 0x13dc2
+6923E6F: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13e6f - FunctionEnd: 0x13e70 - UnwindInfo: 0x13eb0
+6923F69: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x13f69 - FunctionEnd: 0x13f6a - UnwindInfo: 0x13fac
+6924059: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14059 - FunctionEnd: 0x1405a - UnwindInfo: 0x1409a
+6924165: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14165 - FunctionEnd: 0x14166 - UnwindInfo: 0x141ae
+69242B0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x142b0 - FunctionEnd: 0x142b1 - UnwindInfo: 0x142f0
+69243AA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x143aa - FunctionEnd: 0x143ab - UnwindInfo: 0x143f0
+69244B3: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x144b3 - FunctionEnd: 0x144b4 - UnwindInfo: 0x144fc
+69245AA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x145aa - FunctionEnd: 0x145ab - UnwindInfo: 0x145fa
+69246B0: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x146b0 - FunctionEnd: 0x146b1 - UnwindInfo: 0x146f8
+69247B4: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x147b4 - FunctionEnd: 0x147b5 - UnwindInfo: 0x147fa
+69248F2: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x148f2 - FunctionEnd: 0x148f3 - UnwindInfo: 0x1493a
+69249FC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x149fc - FunctionEnd: 0x149fd - UnwindInfo: 0x14a42
+6924B13: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14b13 - FunctionEnd: 0x14b14 - UnwindInfo: 0x14b64
+6924C0C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14c0c - FunctionEnd: 0x14c0d - UnwindInfo: 0x14c5e
+6924D11: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14d11 - FunctionEnd: 0x14d12 - UnwindInfo: 0x14d54
+6924E05: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14e05 - FunctionEnd: 0x14e06 - UnwindInfo: 0x14e48
+6924F2B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x14f2b - FunctionEnd: 0x14f2c - UnwindInfo: 0x14f74
+6925039: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15039 - FunctionEnd: 0x1503a - UnwindInfo: 0x15088
+6925155: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15155 - FunctionEnd: 0x15156 - UnwindInfo: 0x15194
+692524A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1524a - FunctionEnd: 0x1524b - UnwindInfo: 0x1529c
+692535A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1535a - FunctionEnd: 0x1535b - UnwindInfo: 0x153a4
+69254AE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x154ae - FunctionEnd: 0x154af - UnwindInfo: 0x154f4
+69255B8: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x155b8 - FunctionEnd: 0x155b9 - UnwindInfo: 0x15608
+69256CE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x156ce - FunctionEnd: 0x156cf - UnwindInfo: 0x15710
+69257CA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x157ca - FunctionEnd: 0x157cb - UnwindInfo: 0x1580c
+69258CC: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x158cc - FunctionEnd: 0x158cd - UnwindInfo: 0x1590c
+69259C5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x159c5 - FunctionEnd: 0x159c6 - UnwindInfo: 0x15a04
+6925B0B: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15b0b - FunctionEnd: 0x15b0c - UnwindInfo: 0x15b5a
+6925C05: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15c05 - FunctionEnd: 0x15c06 - UnwindInfo: 0x15c4c
+6925D13: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15d13 - FunctionEnd: 0x15d14 - UnwindInfo: 0x15d62
+6925DFE: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15dfe - FunctionEnd: 0x15dff - UnwindInfo: 0x15e3e
+6925EF6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x15ef6 - FunctionEnd: 0x15ef7 - UnwindInfo: 0x15f40
+6926040: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16040 - FunctionEnd: 0x16041 - UnwindInfo: 0x16086
+692613C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1613c - FunctionEnd: 0x1613d - UnwindInfo: 0x1618a
+692625D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1625d - FunctionEnd: 0x1625e - UnwindInfo: 0x162a0
+692635E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1635e - FunctionEnd: 0x1635f - UnwindInfo: 0x163b0
+6926473: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16473 - FunctionEnd: 0x16474 - UnwindInfo: 0x164ba
+6926573: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16573 - FunctionEnd: 0x16574 - UnwindInfo: 0x165c4
+6926688: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16688 - FunctionEnd: 0x16689 - UnwindInfo: 0x166d8
+6926789: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16789 - FunctionEnd: 0x1678a - UnwindInfo: 0x167ce
+692689E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1689e - FunctionEnd: 0x1689f - UnwindInfo: 0x168f0
+69269A6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x169a6 - FunctionEnd: 0x169a7 - UnwindInfo: 0x169f4
+6926AB2: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16ab2 - FunctionEnd: 0x16ab3 - UnwindInfo: 0x16b00
+6926BC6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16bc6 - FunctionEnd: 0x16bc7 - UnwindInfo: 0x16c08
+6926CAD: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16cad - FunctionEnd: 0x16cae - UnwindInfo: 0x16cfa
+6926DCA: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16dca - FunctionEnd: 0x16dcb - UnwindInfo: 0x16e0a
+6926EBB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16ebb - FunctionEnd: 0x16ebc - UnwindInfo: 0x16efa
+6926FC5: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x16fc5 - FunctionEnd: 0x16fc6 - UnwindInfo: 0x17010
+69270E6: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x170e6 - FunctionEnd: 0x170e7 - UnwindInfo: 0x17128
+69271EB: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x171eb - FunctionEnd: 0x171ec - UnwindInfo: 0x17234
+6927300: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x17300 - FunctionEnd: 0x17301 - UnwindInfo: 0x17352
+692740C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1740c - FunctionEnd: 0x1740d - UnwindInfo: 0x17458
+6927520: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x17520 - FunctionEnd: 0x17521 - UnwindInfo: 0x1756c
+692762E: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1762e - FunctionEnd: 0x1762f - UnwindInfo: 0x1767a
+692774D: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1774d - FunctionEnd: 0x1774e - UnwindInfo: 0x1778c
+692783C: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1783c - FunctionEnd: 0x1783d - UnwindInfo: 0x1788e
+692795A: Priveleged instruction (exc.code c0000096, tid 27052)
+FunctionStart: 0x1795a - FunctionEnd: 0x1795b - UnwindInfo: 0x1799a

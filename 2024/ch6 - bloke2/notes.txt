@@ -1,0 +1,34 @@
+
+In data_mgr.txt, there's a key line:
+h <= h_in ^ (TEST_VAL & {(W*16){tst}});
+
+Where TEST_VAL is a hardcoded value and tst is set based on the finish signal:
+tst <= finish;
+
+The critical difference is in bloke2b_tb.txt, in the order of setting start and finish:
+
+Original version:
+start <= 1'b1;
+finish <= 1'b0;
+@(posedge clk);
+start <= 1'b0;
+finish <= 1'b0;
+
+Working version:
+start <= 1'b1;
+finish <= 1'b1;
+@(posedge clk);
+start <= 1'b0;
+finish <= 1'b0;
+
+The solution works because:
+
+When finish is set to 1'b1 along with start, it causes tst to be set to 1 in data_mgr.txt during reset: if (rst | start) begin tst <= finish; // tst gets set to 1 here when finish is 1 end
+This stored tst value is then used in the XOR operation: h <= h_in ^ (TEST_VAL & {(W*16){tst}});
+When tst is 1, TEST_VAL is XORed with the hash output, revealing the hidden message. When tst is 0, the XOR doesn't happen.
+Key points:
+
+Setting finish to 1 during start allows tst to capture that value
+This enables the XOR with TEST_VAL
+Timing is crucial - must happen during reset/start condition
+Setting both start and finish high simultaneously triggers the hidden message

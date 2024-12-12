@@ -1,0 +1,43 @@
+
+
+
+- call that go to --> "8F 05 ? ? ? ? 50 48 C7 C0 00 00 00 00 8A 25 ? ? ? ? 67 8D 80 ? ? ? ? 89 05 ? ? ? ? 58"
+- deobf_address --> count 5 from the end of this call 
+- patch this address with instruction decoded inside the call 
+- (**) any instruction between calls leave it as is --> instructions less than 5 bytes not obfuscated 
+
+
+the flow of --> pop ... xchg ... ret <-- 
+Initial State:
+
+pop     qword ptr cs:loc_6DA4D5E+2  ; Saves return address directly into the instruction stream
+push    rax                         ; Save rax
+
+First Deobfuscation Stage:
+
+mov     rax, 0
+mov     ah, cs:byte_6DA4D26        ; ah = 0x4B
+lea     eax, [eax+7F497049h]       ; Calculate value
+mov     dword ptr cs:loc_6DA4D49, eax  ; Patch instruction at 0x6DA4D49
+
+Second Stage (at 0x6DA4D49):
+
+mov     dword ptr cs:loc_6DA4D49, 676742DDh  ; Another self-modification
+
+Final Decoded Sequence (at 0x6DA4D5E):
+
+mov     rax, 6AC009Dh              ; Load address
+lea     rax, [rax+5]              ; Adjust address (+5)
+xchg    rax, [rsp]                ; Swap with return address on stack
+retn                              ; Return to modified address
+The full flow is:
+
+Save return address into the code (will become part of mov rax instruction)
+Compute and patch first instruction
+That instruction patches the next one
+Finally reveals the real code that:
+
+Takes the original return address (0x6AC009D)
+Adds 5 to it
+Swaps it with the stack value
+Returns to the modified address (0x6AC00A2)

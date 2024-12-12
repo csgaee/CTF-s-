@@ -1,0 +1,12 @@
+1 - py -m pip install pygame
+
+
+2 - remove the following -- to render the game without any blocks 
+
+# draw the blocks
+	for block in blocks:
+		block.draw(screen)
+
+
+3 - py frog.py
+
